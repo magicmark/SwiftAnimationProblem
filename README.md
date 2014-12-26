@@ -1,0 +1,4 @@
+SwiftAnimationProblem
+=====================
+
+Swift animation problem
